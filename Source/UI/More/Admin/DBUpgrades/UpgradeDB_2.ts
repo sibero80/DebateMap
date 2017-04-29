@@ -1,4 +1,4 @@
-import {GetDataAsync, envSuffix} from "../../../../Frame/Database/DatabaseHelpers";
+import {GetDataAsync} from "../../../../Frame/Database/DatabaseHelpers";
 import {AddUpgradeFunc, FirebaseData} from "../../Admin";
 
 let newVersion = 2;
